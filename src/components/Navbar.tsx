@@ -28,8 +28,8 @@ export function Navbar() {
             alt="6 to 9 Dental Logo"
             width={0}
             height={0}
-            sizes="100px"
-            className="h-10 sm:h-12 w-auto object-contain"
+            sizes="200px"
+            className="w-auto h-12 lg:h-14 ml-2 saturate-[0.85] brightness-[0.9] contrast-[1.05] object-contain"
             priority
           />
         </div>

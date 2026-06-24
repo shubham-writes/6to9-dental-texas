@@ -18,7 +18,7 @@ export default function Home() {
 
           {/* LEFT COLUMN: Content */}
           <div className="max-w-2xl">
-            <div className="inline-flex items-center rounded-full mt-15 px-3 py-1 text-sm font-semibold text-primary bg-primary/10 ring-1 ring-inset ring-primary/20 mb-6">
+            <div className="inline-flex items-center rounded-full mt-15 px-3 py-1 text-sm font-semibold text-slate-600 bg-slate-100 ring-1 ring-inset ring-slate-200 mb-6">
               Open 6 Days a Week
             </div>
 
@@ -70,7 +70,7 @@ export default function Home() {
                   ★★★★★
                 </div>
                 <p className="text-sm font-bold text-text-slate mt-1">4.9/5 Rating</p>
-                <p className="text-xs text-gray-500">200+ Happy Patients</p>
+                <p className="text-xs text-gray-500">129 Reviews</p>
               </div>
             </div>
           </div>
