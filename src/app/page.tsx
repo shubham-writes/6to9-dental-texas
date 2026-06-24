@@ -22,9 +22,9 @@ export default function Home() {
               Open 6 Days a Week
             </div>
 
-            <h1 className="text-4xl sm:text-4xl lg:text-[47px] font-extrabold tracking-tight leading-[1.1]">
+            <h1 className="text-4xl sm:text-4xl lg:text-[45px] font-extrabold tracking-tight leading-[1.1]">
               <span className="text-text-slate block">Same-Day Dental Care</span>
-              <span className="text-gray-500 text-3xl sm:text-4xl lg:text-[38px] mt-2 block">Open Evenings & Weekends</span>
+              <span className="text-gray-500 text-3xl sm:text-4xl lg:text-[34px] mt-2 block">Open Evenings & Weekends</span>
             </h1>
 
             <p className="mt-6 text-lg leading-8 text-gray-600 max-w-xl">
@@ -49,7 +49,7 @@ export default function Home() {
             <TrustBadge />
           </div>
 
-          <div className="relative w-full mt-10 aspect-square sm:aspect-[4/3] lg:aspect-auto lg:h-[500px]">
+          <div className="relative w-full mt-10 aspect-square sm:aspect-[4/3] lg:aspect-auto lg:h-[32rem]">
             <Image
               src="/images/heroImage.png"
               alt="Dentist with Patient"
@@ -60,7 +60,7 @@ export default function Home() {
             />
 
             {/* Optional Floating Card */}
-            <div className="absolute -bottom-8 right-4 sm:bottom-16 sm:right-8 lg:-right-4 bg-white rounded-xl shadow-xl p-4 sm:p-5 flex items-center gap-4 ring-1 ring-black/5 max-w-[280px] z-10">
+            <div className="absolute -bottom-8 right-4 sm:bottom-16 sm:right-8 lg:-right-10 bg-white rounded-xl shadow-xl p-4 sm:p-5 flex items-center gap-4 ring-1 ring-black/10 max-w-[280px] z-10">
               <div className="flex-shrink-0 w-12 h-12 rounded-full bg-green-100 flex items-center justify-center text-xl">
                 🦷
               </div>
